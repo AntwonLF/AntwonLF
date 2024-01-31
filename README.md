@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+As a Software Engineer with a genuine passion for programming and coding, my goal is to excel and lead in the tech industry. My previous experience, which includes leadership roles in the military and managing significant resources, has equipped me with strong skills in strategy and management. These skills, combined with my natural problem-solving abilities, make me well-suited for a career in software engineering.
 <!--
 **AntwonLF/AntwonLF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
