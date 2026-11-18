@@ -1,4 +1,4 @@
-# Hey, I'm Antwon 👋🏾
+# Hey,  I'm Antwon 👋🏾
 
 
 
@@ -90,4 +90,30 @@ A 2D side-scrolling game featuring interactive gameplay and evolving seasonal th
 [View Source Code](https://github.com/AntwonLF/Game---Jumper-)
 
 <!-- END FEATURED PROJECTS -->
+
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<!-- START GITHUB STATS -->
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AntwonLF&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=10263C&title_color=20B2AA&text_color=E8EDF2&icon_color=20B2AA"
+    alt="Antwon's GitHub statistics"
+    width="460"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AntwonLF&bg_color=10263C&color=E8EDF2&title_color=20B2AA&line=20B2AA&point=FFFFFF&area=true&area_color=157E89&hide_border=true"
+    alt="Antwon's GitHub activity graph"
+    width="95%"
+  />
+</p>
+
+<!-- END GITHUB STATS -->
+
 
