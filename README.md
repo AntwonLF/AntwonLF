@@ -25,3 +25,30 @@ and full-stack development.
 
 🎯 **My focus:** Building useful technology and
 understanding the engineering behind it.
+
+
+## 🧰 Technical Toolbox
+
+### Languages & Frameworks
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,django,html,css&theme=dark" alt="Python, JavaScript, React, Node.js, Django, HTML and CSS" />
+</p>
+
+### Databases & Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,vscode&theme=dark" alt="MongoDB, PostgreSQL, Git, GitHub and VS Code" />
+</p>
+
+### AI Engineering
+
+**Generative AI & LLMs:** RAG · Llama 3.2 · Ollama
+
+**Machine Learning:** Sentence Transformers · Embeddings · Semantic Search
+
+**Vector Databases:** ChromaDB
+
+### Cybersecurity
+
+NIST RMF · Risk Assessment · Access Control · Security Documentation
