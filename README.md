@@ -52,3 +52,42 @@ understanding the engineering behind it.
 ### Cybersecurity
 
 NIST RMF · Risk Assessment · Access Control · Security Documentation
+
+
+---
+
+## 🚀 Featured Projects
+
+<!-- START FEATURED PROJECTS -->
+
+### 🧠 [Financial Policy AI Assistant](https://github.com/AntwonLF/financial-policy-ai-assistant)
+
+**Python · RAG · ChromaDB · Sentence Transformers · Ollama · Llama 3.2**
+
+An AI-powered financial policy assistant that retrieves relevant document sections and generates source-grounded answers using a locally hosted language model.
+
+- Built a semantic search pipeline using 384-dimensional embeddings.
+- Integrated persistent vector storage with ChromaDB.
+- Connected Llama 3.2 for retrieval-augmented answer generation.
+- Implemented 13 automated tests.
+
+**Status:** Phase 5 Complete | Full-Stack Interface Planned
+
+[Explore the Project](https://github.com/AntwonLF/financial-policy-ai-assistant)
+
+---
+
+### 🎮 [Jumper — JavaScript Game](https://github.com/AntwonLF/Game---Jumper-)
+
+**JavaScript · HTML5 Canvas · CSS**
+
+A 2D side-scrolling game featuring interactive gameplay and evolving seasonal themes.
+
+- Developed browser-based game mechanics.
+- Worked with JavaScript animations and canvas rendering.
+- Designed themed visual experiences.
+
+[View Source Code](https://github.com/AntwonLF/Game---Jumper-)
+
+<!-- END FEATURED PROJECTS -->
+
